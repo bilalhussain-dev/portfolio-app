@@ -42,6 +42,22 @@ html {
   overflow: hidden;
 }
 
+
+.banner-home {
+  height: 300px;
+  width: 100%;
+  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.493)),url('../img/banner-img.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
 body {
   background-color: #5050f5;
   background: -webkit-gradient(linear, left top, left bottom, from(#9d2bf3), to(#5050f5));
@@ -2820,10 +2836,10 @@ blockquote {
 }
 
 .title-block .sp-subtitle {
-  color: #aaa;
-  font-size: 21px;
+  color: #fff;
+  font-size: 25px;
   font-weight: 300;
-  margin: 5px 0;
+  margin: 20px 0;
   text-align: center;
 }
 
@@ -2904,8 +2920,8 @@ blockquote {
 
 .fun-fact-block-value {
   color: #aaa;
-  font-size: 36px;
-  line-height: 50px;
+  font-size: 12px;
+  line-height: 1.5;
   display: block;
   margin: 15px 0 10px;
 }
