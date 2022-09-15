@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://tahaalazzawi.com/</title>
+  <link>https://tahaalazzawi.com/</link>
+
+<item>
+     <link>https://tahaalazzawi.com/</link>
+     <title>Technical Sales Professional &amp; Business Development Manager</title>
+     <description>Taha is a Technical Sales Professional, Product Manager &amp;  Business Development Manager. I understand the logic, Data, needs, and deployed creativity.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://tahaalazzawi.com/Taha%20Alazzawi.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
