@@ -42,6 +42,11 @@ html {
   overflow: hidden;
 }
 
+.btn-signup {
+  display: block;
+  width: 100%;
+}
+
 
 .banner-home {
   height: 300px;
